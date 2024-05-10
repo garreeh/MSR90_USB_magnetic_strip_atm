@@ -1,3 +1,4 @@
+<!-- JavaScript connected via getElementById -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
